@@ -46,7 +46,7 @@ TO-DO.
 5 - HACKING
 -----------
 
-If you want to extend the functionalities of OSRFramework and you do not know where to start from, check the [HACKING.md](HACKING.md) file.
+If you want to extend the functionalities of this project and you do not know where to start from, check the [HACKING.md](HACKING.md) file.
 
 6 - AUTHORS
 -----------
